@@ -1,0 +1,3 @@
+app\controller\ProductoController.class
+app\model\Producto.class
+app\service\ProductoService.class
